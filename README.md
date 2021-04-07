@@ -1,1 +1,1 @@
-# tps_labo_1
+# tps_laboratorio_1
