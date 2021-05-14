@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620863688 source:c:\users\cris\documents\cosasfacu\tp2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1620510782 c:\users\cris\documents\cosasfacu\tp2\menu.h
+
+1620864286 source:c:\users\cris\documents\cosasfacu\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+	"menu.h"
+
+1620864072 c:\users\cris\documents\cosasfacu\tp2\empleados.h
+
+1620864072 source:c:\users\cris\documents\cosasfacu\tp2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"menu.h"
+
