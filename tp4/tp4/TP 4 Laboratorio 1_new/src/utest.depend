@@ -1,0 +1,739 @@
+# depslib dependency file v1.0
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\utest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\inc\linkedlist.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\employee.h
+
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\newtest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\addtest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\getnodetest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\addnodetest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\deletelinkedlisttest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\lentest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\gettest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\containstest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\settest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\removetest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\cleartest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\clonetest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\pushtest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\indexoftest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\isemptytest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\poptest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\sublisttest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\containsalltest.h
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\sorttest.h
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747182 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573747181 source:c:\users\alumno\desktop\tp 4 laboratorio 1\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573752057 source:c:\users\alumno\desktop\tp 4 laboratorio 1\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1573751272 source:c:\users\alumno\desktop\tp 4 laboratorio 1\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1573747181 c:\users\alumno\desktop\tp 4 laboratorio 1\testing\inc\main_test.h
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\utest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\inc\linkedlist.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\employee.h
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\newtest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\addtest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\getnodetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\addnodetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\deletelinkedlisttest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\lentest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\gettest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\containstest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\settest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\removetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\cleartest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\clonetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\pushtest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\indexoftest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\isemptytest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\poptest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\sublisttest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\containsalltest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\sorttest.h
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1574378246 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574391041 source:c:\users\chris\desktop\tp 4 laboratorio 1\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1574391497 source:c:\users\chris\desktop\tp 4 laboratorio 1\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1\testing\inc\main_test.h
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\utest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\inc\linkedlist.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\employee.h
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\newtest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\addtest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\getnodetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\addnodetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\deletelinkedlisttest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\lentest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\gettest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\containstest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\settest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\removetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\cleartest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\clonetest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\pushtest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\indexoftest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\isemptytest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\poptest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\sublisttest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\containsalltest.h
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\sorttest.h
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1574378246 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1573744017 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574475098 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1574474820 source:c:\users\chris\desktop\tp 4 laboratorio 1_new\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1573744017 c:\users\chris\desktop\tp 4 laboratorio 1_new\testing\inc\main_test.h
+
